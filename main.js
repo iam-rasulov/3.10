@@ -19,7 +19,7 @@ elForm.addEventListener("submit", function(event){
     //     elInput.value = "";
     // }
     else {
-    elSpan.textContent = elInput.value + " soni juft";
+    elSpan.textContent = elInput.value + " soni toq";
     toq.push(elInput.value);
     console.log(toq);
     elInput.value = "";
